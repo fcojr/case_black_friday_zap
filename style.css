@@ -125,6 +125,7 @@ footer a {
     .content {
       flex-direction: column;
    justify-content: center;
+   align-items: center;
     }
    .text {
      margin-bottom: 40px;
